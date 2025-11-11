@@ -3,7 +3,7 @@ import hero1 from "../assets/images/hero1.jpg";
 
 const HeroSection_1 = () => {
   return (
-    <section className="relative flex flex-col items-center w-full py-10 text-center text-white bg-black">
+    <section className="relative flex flex-col items-center w-full pt-10 text-center text-black bg-[#F5F5F7]">
       <h2 className="mb-6 text-lg font-semibold md:text-2xl">
         Heat-forged aluminium unibody design for exceptional pro capability.
       </h2>
