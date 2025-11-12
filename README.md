@@ -62,5 +62,5 @@ Aspiring MERN Developer | Front-End Enthusiast
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sugi-shiva)  
 - 🧑‍💻 [GitHub](https://github.com/sugishiva)   
-- 📧 [Email Me](mailto:sugishiva@gmail.com)
+- 📧 [Email Me](mailto:sugishiva0@gmail.com)
 
